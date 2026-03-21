@@ -1,0 +1,90 @@
+[
+    {
+      "id": "L001",
+      "name": "Vikram Nair",
+      "email": "vikram@email.com",
+      "destinations": "Switzerland, Paris",
+      "budget": "350000",
+      "travel_month": "Next month",
+      "message_count": 10,
+      "days_since_contact": 1,
+      "email_responded": true
+    },
+    {
+      "id": "L002",
+      "name": "Sneha Pillai",
+      "email": "sneha@email.com",
+      "destinations": "Thailand",
+      "budget": "80000",
+      "travel_month": "3 months from now",
+      "message_count": 4,
+      "days_since_contact": 5,
+      "email_responded": true
+    },
+    {
+      "id": "L003",
+      "name": "Arjun Kapoor",
+      "email": "arjun@email.com",
+      "destinations": "Europe (general)",
+      "budget": "Not specified",
+      "travel_month": "Maybe next year",
+      "message_count": 1,
+      "days_since_contact": 30,
+      "email_responded": false
+    },
+    {
+      "id": "L004",
+      "name": "Pooja Iyer",
+      "email": "pooja@email.com",
+      "destinations": "Maldives",
+      "budget": "250000",
+      "travel_month": "Next month",
+      "message_count": 7,
+      "days_since_contact": 2,
+      "email_responded": true
+    },
+    {
+      "id": "L005",
+      "name": "Rohit Sharma",
+      "email": "rohit@email.com",
+      "destinations": "Dubai, Abu Dhabi",
+      "budget": "180000",
+      "travel_month": "2 months from now",
+      "message_count": 5,
+      "days_since_contact": 4,
+      "email_responded": true
+    },
+    {
+      "id": "L006",
+      "name": "Divya Menon",
+      "email": "divya@email.com",
+      "destinations": "Bali",
+      "budget": "120000",
+      "travel_month": "3 months from now",
+      "message_count": 3,
+      "days_since_contact": 8,
+      "email_responded": false
+    },
+    {
+      "id": "L007",
+      "name": "Sanjay Gupta",
+      "email": "sanjay@email.com",
+      "destinations": "Australia, New Zealand",
+      "budget": "500000",
+      "travel_month": "Next month",
+      "message_count": 12,
+      "days_since_contact": 1,
+      "email_responded": true
+    },
+    {
+      "id": "L008",
+      "name": "Preethi Rao",
+      "email": "preethi@email.com",
+      "destinations": "Japan",
+      "budget": "Not specified",
+      "travel_month": "Maybe sometime",
+      "message_count": 2,
+      "days_since_contact": 20,
+      "email_responded": false
+    }
+  ]

@@ -1,0 +1,98 @@
+[
+    {
+      "customer_name": "Priya Sharma",
+      "email": "priya@email.com",
+      "destination": "Bali, Indonesia",
+      "package": "Bali Explorer 7N/8D",
+      "adults": 2,
+      "children": 0,
+      "travel_start": "2025-12-10",
+      "travel_end": "2025-12-17",
+      "budget": 120000,
+      "special_requests": "Vegetarian meals, sea-view room"
+    },
+    {
+      "customer_name": "Rahul Verma",
+      "email": "rahul@email.com",
+      "destination": "Maldives",
+      "package": "Maldives Luxury 5N/6D",
+      "adults": 2,
+      "children": 1,
+      "travel_start": "2026-01-15",
+      "travel_end": "2026-01-20",
+      "budget": 200000,
+      "special_requests": "Anniversary decoration, water villa"
+    },
+    {
+      "customer_name": "Anjali Mehta",
+      "email": "anjali@email.com",
+      "destination": "Rajasthan, India",
+      "package": "Royal Rajasthan 6N/7D",
+      "adults": 4,
+      "children": 2,
+      "travel_start": "2026-02-01",
+      "travel_end": "2026-02-07",
+      "budget": 180000,
+      "special_requests": "Heritage hotels, camel safari"
+    },
+    {
+      "customer_name": "Karan Mehta",
+      "email": "karan@email.com",
+      "destination": "Dubai, UAE",
+      "package": "Dubai Delight 4N/5D",
+      "adults": 2,
+      "children": 0,
+      "travel_start": "2026-03-05",
+      "travel_end": "2026-03-09",
+      "budget": 150000,
+      "special_requests": "Desert safari, burj khalifa visit"
+    },
+    {
+      "customer_name": "Neha Joshi",
+      "email": "neha@email.com",
+      "destination": "Switzerland",
+      "package": "Swiss Alps 6N/7D",
+      "adults": 2,
+      "children": 2,
+      "travel_start": "2026-04-10",
+      "travel_end": "2026-04-16",
+      "budget": 400000,
+      "special_requests": "Snow activities, family rooms"
+    },
+    {
+      "customer_name": "Suresh Patel",
+      "email": "suresh@email.com",
+      "destination": "Thailand",
+      "package": "Thailand Explorer 5N/6D",
+      "adults": 3,
+      "children": 0,
+      "travel_start": "2026-05-01",
+      "travel_end": "2026-05-06",
+      "budget": 90000,
+      "special_requests": "Street food tour, beach hotel"
+    },
+    {
+      "customer_name": "Meera Nair",
+      "email": "meera@email.com",
+      "destination": "Paris, France",
+      "package": "Paris Romance 5N/6D",
+      "adults": 2,
+      "children": 0,
+      "travel_start": "2026-06-14",
+      "travel_end": "2026-06-19",
+      "budget": 350000,
+      "special_requests": "Eiffel tower view room, wine tasting"
+    },
+    {
+      "customer_name": "Amit Singh",
+      "email": "amit@email.com",
+      "destination": "Kerala, India",
+      "package": "Kerala Backwaters 4N/5D",
+      "adults": 2,
+      "children": 1,
+      "travel_start": "2026-07-20",
+      "travel_end": "2026-07-24",
+      "budget": 60000,
+      "special_requests": "Houseboat stay, Ayurveda spa"
+    }
+  ]
